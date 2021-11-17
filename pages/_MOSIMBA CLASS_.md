@@ -1,6 +1,2 @@
-- [[Git]]
-- [[Logseq to git]]
-- [[Php Storm]]
-- [[Html]]
-- [[Css]]
-- [[Javascipt]]
+-
+-
